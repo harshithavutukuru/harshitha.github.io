@@ -1,15 +1,21 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hello! I’m currently pursuing a Master’s degree in Data Science and Machine Learning at California State University, Los Angeles, and I’m on track to graduate in December 2024. I have a deep passion for developing robust machine learning models that solve real-world problems, particularly in the areas of predictive modeling, data-driven decision-making, and optimization techniques. I’ve successfully completed two major projects in machine learning, which have sharpened my expertise in algorithm design, feature engineering, and model evaluation.
 
-A data-driven personal website
+Prior to this, I worked as an Application Development Analyst at Accenture for nearly 3 years, where I gained significant experience in full-stack development, system optimization, and scalable architecture. I engineered end-to-end, data-driven transaction systems for Societe Generale using JavaScript, MySQL, and RESTful APIs, ensuring high-performance and seamless integration across services. I also applied Test-Driven Development (TDD) practices, leveraging SQL Developer and complex stored procedures to optimize database queries and enhance processing efficiency.
+
+My role involved close collaboration with front-end developers and the DevOps team to streamline CI/CD pipelines using Java, Spring Boot, and Jenkins, which enhanced the deployment of high-availability applications. I am highly motivated to apply advanced machine learning techniques such as ensemble learning, deep neural networks, and reinforcement learning to tackle complex industry challenges.
+
+With a strong foundation in statistical modeling, data preprocessing, and hyperparameter tuning, I am eager to contribute to impactful machine learning projects that drive innovation and efficiency. My ultimate goal is to leverage these technologies to deliver data-driven solutions that create value for businesses and society alike.
+
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -46,4 +52,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
