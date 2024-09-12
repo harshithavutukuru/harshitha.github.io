@@ -12,9 +12,9 @@ title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "Harshitha Vutukuru Muralikrishna"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://harshithavutukuru.github.io/harshitha.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "harshithavutukuru.github.io/harshitha.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -27,7 +27,7 @@ author:
   bio              : "Graduate Student at CSULA"
   location         : "San Diego"
   employer         : "California State University Los Angeles"
-  uri              : # URL
+  uri              : "https://www.calstatela.edu/about"
   email            : "harshitharaghu22@gmail.com" 
 
   # Academic websites
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "harshitha-vutukuru-muralikrishna"
+  linkedin         : "harshithavutukuru"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
