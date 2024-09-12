@@ -27,7 +27,7 @@ author:
   bio              : "Graduate Student at CSULA"
   location         : "San Diego"
   employer         : "California State University Los Angeles"
-  uri              : "https://www.calstatela.edu/about"
+  #uri              : "https://www.calstatela.edu/about"
   email            : "harshitharaghu22@gmail.com" 
 
   # Academic websites
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "harshithavutukuru"
+  linkedin         : "https://www.linkedin.com/in/harshitha-vutukuru-muralikrishna-35251212a/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
