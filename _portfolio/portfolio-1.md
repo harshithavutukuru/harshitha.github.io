@@ -1,6 +1,6 @@
 ---
 title: "CerebroVision"
-excerpt: "Brain Tumor Identification <br/><img src='/images/brain_tumor_1.jpg/'>"
+excerpt: "Brain Tumor Identification <br/><img src='/images/brain_tumor_1.jpg'>"
 collection: portfolio
 ---
 
