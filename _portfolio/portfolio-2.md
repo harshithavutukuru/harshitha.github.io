@@ -1,6 +1,6 @@
 ---
 title: "Car Price Predictor"
-excerpt: "Car Price Predictor using Machine learning <br/><img src='/images/500x300.png'>"
+excerpt: "Car Price Predictor using Machine learning <br/><img src='/images/carpricepredictor.jpg'>"
 collection: portfolio
 ---
 
